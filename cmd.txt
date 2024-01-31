@@ -1,0 +1,1 @@
+spark-submit --class org.personal.sparkscalaforge.application.Main --master local[*] target/spark-scala-forge-1.0-SNAPSHOT.jar
